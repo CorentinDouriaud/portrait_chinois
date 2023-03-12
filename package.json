@@ -1,7 +1,7 @@
 {
   "name": "portrait_chinois",
   "version": "0.1.0",
-  "homepage": "https://corentindouriaud.github.io/portrait_chinois_test/",
+  "homepage": "https://corentindouriaud.github.io/portrait_chinois/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.6",
