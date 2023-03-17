@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/portrait_chinois/static/css/main.cdd0ea60.css",
-    "main.js": "/portrait_chinois/static/js/main.6d814b40.js",
+    "main.js": "/portrait_chinois/static/js/main.d7315cfc.js",
     "static/js/787.6e26b668.chunk.js": "/portrait_chinois/static/js/787.6e26b668.chunk.js",
     "index.html": "/portrait_chinois/index.html",
     "main.cdd0ea60.css.map": "/portrait_chinois/static/css/main.cdd0ea60.css.map",
-    "main.6d814b40.js.map": "/portrait_chinois/static/js/main.6d814b40.js.map",
+    "main.d7315cfc.js.map": "/portrait_chinois/static/js/main.d7315cfc.js.map",
     "787.6e26b668.chunk.js.map": "/portrait_chinois/static/js/787.6e26b668.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cdd0ea60.css",
-    "static/js/main.6d814b40.js"
+    "static/js/main.d7315cfc.js"
   ]
 }
