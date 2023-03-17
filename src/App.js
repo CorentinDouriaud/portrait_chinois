@@ -2,6 +2,7 @@ import './App.css';
 import AddSuspense from './AddSuspense'
 import { useState, useEffect } from 'react';
 import Button from '@mui/material/Button';
+import { questionJaunes, questionRouges, questionVertes } from './Questions';
 
 const styleBoutonRouge ={
   borderRadius: 35,
@@ -28,22 +29,6 @@ const styleBoutonVert ={
 }
 
 function App() {
-
-  const questionVertes = [
-  "Questionv 1",
-  "Questionv 2",
-  "Questionv 3",
-  "Questionv 4"]
-  const questionRouges = [
-  "Questionr 1",
-  "Questionr 2",
-  "Questionr 3",
-  "Questionr 4"]
-  const questionJaunes = [
-  "QuestionJ 1",
-  "Questionj 2",
-  "Questionj 3",
-  "Questionj 4"]
   
   const [couleur, setCouleur] = useState("grey")
   const [personState, setPersonState] = useState("Quelle est ton empathie envers la nature ?")
